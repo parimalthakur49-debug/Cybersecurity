@@ -1,0 +1,49 @@
+body{
+font-family:Arial;
+background:#eef3f9;
+text-align:center;
+}
+
+
+.login-box{
+
+margin:100px auto;
+background:white;
+padding:30px;
+width:300px;
+border-radius:15px;
+box-shadow:0 0 15px gray;
+
+}
+
+
+input{
+
+display:block;
+width:90%;
+padding:12px;
+margin:15px auto;
+
+}
+
+
+button{
+
+background:#0b1f3a;
+color:white;
+padding:12px 30px;
+border:none;
+border-radius:8px;
+
+}
+
+
+.card{
+
+background:white;
+margin:20px;
+padding:25px;
+border-radius:15px;
+box-shadow:0 0 10px #ccc;
+
+}
